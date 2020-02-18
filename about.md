@@ -7,4 +7,4 @@ published: true
 
 My name is Khalid Almuteri.
 
-[email@domain.com](mailto:email@domain.com)
+[kalmuteri@gmail.com](mailto:kalmuteri@gmail.com)
