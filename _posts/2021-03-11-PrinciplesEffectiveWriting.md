@@ -36,9 +36,9 @@ When writing a sentence, ask yourself the follow:
 2. Is this sentence is readable?
 3. Is this sentence enjoyable and intereseting to read?
 4. It the sentence to inform or obscure?
-Avoid nouns and use verbs if possible.
+
+In thechnical writing, avoid extra words. It is important to make your writing consice and to the point. Also, avoid nouns and use verbs if possible.
 > Example
 > Identify one of the three nouns in the following sentence that could be verbs:
 > Their data lend some support to the idea that the particle exists, but this is hardly sufficient justification for the paper’s publication in Nature.
 > The three nouns are support, justification, and publication.
-Avoid extra words.
