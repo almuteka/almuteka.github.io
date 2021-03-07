@@ -78,3 +78,14 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 > <ins> Before </ins>: Brain injury incidence shows two peak periods in almost all reports: rates are the highest in young people and the elderly.
 > 
 > <ins> After </ins>: Brain injury incidence peaks in the young and the elderly.
+
+### Common clutter:
+1. Dead weight words and phrases (provide citations instead):
+  a. As it is well known.
+  b. As it has been shown.
+  c. It can be regarded that.
+  d. It should be emphasized that.
+2. Empty words and phrases (they don't add anything):
+  a. basic tenets of.
+  b. methodologic.
+  c. important.
