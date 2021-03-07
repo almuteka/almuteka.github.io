@@ -65,7 +65,7 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 > 
 > <ins> After </ins>: Increased athletic activity is associated with lower cardiovascular risk, lower blood pressure, and improved fitness.
 > 
-> <ins> After (me)</ins>: Increased athletic activity lowers cardiovascular risk and blood pressure, and improves fitness.
+> <ins> After </ins>: Increased athletic activity lowers cardiovascular risk and blood pressure, and improves fitness.
 
 > <ins> Example 3 </ins>
 > 
