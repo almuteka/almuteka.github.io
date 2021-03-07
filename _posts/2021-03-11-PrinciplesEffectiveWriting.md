@@ -37,8 +37,11 @@ When writing a sentence, ask yourself the follow:
 3. Is this sentence enjoyable and intereseting to read?
 4. It the sentence to inform or obscure?
 
-In thechnical writing, avoid extra words. It is important to make your writing consice and to the point. Also, avoid nouns and use verbs if possible. Avoid vague words, i.e., words that can be hard to understand why they mean in the context of the sentence. Acronyms can be risky; nonstandard acronyms, i.e., non-familar by most readers, slows reading because readers have to search for the meaning of the acronym.
+In thechnical writing, avoid extra words. It is important to make your writing consice and to the point. Also, avoid nouns and use verbs if possible. 
 > Example
+> 
 > Identify one of the three nouns in the following sentence that could be verbs:
 > Their data lend some support to the idea that the particle exists, but this is hardly sufficient justification for the paper’s publication in Nature.
 > The three nouns are support, justification, and publication.
+
+Avoid vague words, i.e., words that can be hard to understand why they mean in the context of the sentence. Acronyms can be risky; nonstandard acronyms, i.e., non-familar by most readers, slows reading because readers have to search for the meaning of the acronym.
