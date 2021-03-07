@@ -114,9 +114,9 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 
 ### <ins> Example 5 </ins>
 
-> <ins> Before </ins>: The expected prevalence of mental retardation, <ins> based on the assumption that </ins> intelligence is normally distributed, is about 2.5%.
+> <ins> Before </ins>: The expected prevalence of mental retardation, <ins>based on the assumption that</ins> intelligence is normally distributed, is about 2.5%.
 > 
-> <ins> After </ins>: The expected prevalence of mental retardation, <ins> if </ins> intelligence is normally distributed, is about 2.5%.
+> <ins> After </ins>: The expected prevalence of mental retardation, <ins>if</ins> intelligence is normally distributed, is about 2.5%.
 
 ### <ins> Example 6 </ins>
 
