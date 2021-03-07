@@ -111,3 +111,16 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 | give rise to | cause |
 | due to the fact that | because |
 | have an effect on | affect |
+
+### <ins> Example 5 </ins>
+
+> <ins> Before </ins>: The expected prevalence of mental retardation, <ins> based on the assumption that </ins> intelligence is normally distributed, is about 2.5%.
+> 
+> <ins> After </ins>: The expected prevalence of mental retardation, <ins> if </ins> intelligence is normally distributed, is about 2.5%.
+
+### <ins> Example 6 </ins>
+
+> <ins> Before </ins>: A robust cell-mediated immune response is necessary, and deficiency in this response predisposes an individual towards active TB.
+> 
+> <ins> After </ins>: Deficiency in T-cell-mediated immune response predisposes an individual to active TB.
+
