@@ -56,3 +56,19 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 > <ins> Before </ins>: This paper provides a review of the basic tenets of cancer biology study design, using as examples studies that illustrate the methodologic challenges of that demonstrate successful solutions to difficulties inherent in biological research.
 > 
 > <ins> After </ins>: This paper reviews cancer biology study design, using examples that illustrate specific hallenges and solutions.
+
+> <ins> Example 2 </ins>
+> 
+> <ins> Before </ins>: As it is well known, increased athletic activity has been related to a profile of lower cardiovascular risk, lower blood pressure levels, and improved muscular and cardio-respiratory performance.
+> 
+> <ins> After (me)</ins>: Increased athletic activity lowers cardiovascular risk and blood pressure, and improves muscular and cardio-respiratory performance.
+> 
+> <ins> After </ins>: Increased athletic activity is associated with lower cardiovascular risk, lower blood pressure, and improved fitness.
+> 
+> <ins> After (me)</ins>: Increased athletic activity lowers cardiovascular risk and blood pressure, and improves fitness.
+
+> <ins> Example 3 </ins>
+> 
+> <ins> Before </ins>: The experimental demonstration is the first of its kind and is a proof of principle for the concept of laser driven particle acceleration in a structure loaded vacuum.
+> 
+> <ins> After </ins>: The experiment provides the first proof of principle of laser-driven particle acceleration in a structure-loaded vacuum.
