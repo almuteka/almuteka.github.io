@@ -103,5 +103,11 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 
 | Wordy | concise |
 | ----------- | ----------- |
-| Header | most  |
-| Paragraph | Text |
+| a majority of | most  |
+| a number of | many |
+| are of the same opinion | agree |
+| less frequently occurring | rare |
+| all three of the | the three |
+| give rise to | cause |
+| due to the fact that | because |
+| have an effect on | affect |
