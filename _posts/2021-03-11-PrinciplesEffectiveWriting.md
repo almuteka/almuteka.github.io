@@ -30,7 +30,7 @@ What makes a good writer?
 13. Don't be afraid to be provocative.
 14. A proper grammar is essential.
 
-# Things To avoid
+# Things to Avoid
 When writing a sentence, ask yourself the following:
 1. Is this sentence easy to understand?
 2. Is this sentence is readable?
@@ -45,3 +45,12 @@ In technical writing, avoid extra words and unnecessary phrases (cut clutter). I
 > The three nouns are support, justification, and publication.
 
 Avoid vague words, i.e., words that can be hard to understand why they mean in the sentence context. Acronyms can be risky; nonstandard acronyms, i.e., non-familiar by most readers, slow reading because readers have to search for the acronym's meaning. Avoid passive voice and use active voice instead.
+
+# Cut Clutter
+## objectives
+1. Remove unnecessary words to make sentences clean, simple, and directly convey information. The reader should not spend time trying to understand what the message is or interpret every sentence's meaning.
+2. Remove any information that is irrelevant and doesn't add any value.
+
+> Example
+> 
+> This paper provides a review of the basic tenets of cancer biology study design, using as examples studies that illustrate the methodologic challenges of that demonstrate successful solutions to difficulties inherent in biological research.
