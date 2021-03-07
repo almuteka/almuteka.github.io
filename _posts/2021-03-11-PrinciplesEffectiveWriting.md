@@ -72,3 +72,9 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 > <ins> Before </ins>: The experimental demonstration is the first of its kind and is a proof of principle for the concept of laser driven particle acceleration in a structure loaded vacuum.
 > 
 > <ins> After </ins>: The experiment provides the first proof of principle of laser-driven particle acceleration in a structure-loaded vacuum.
+
+### <ins> Example 4 </ins>
+
+> <ins> Before </ins>: Brain injury incidence shows two peak periods in almost all reports: rates are the highest in young people and the elderly.
+> 
+> <ins> After </ins>: Brain injury incidence peaks in the young and the elderly.
