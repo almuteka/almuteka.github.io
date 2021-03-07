@@ -3,6 +3,7 @@ layout: post
 title: Test LaTeX!
 published: true
 ---
-Test equation
 
-![image](./eqn.png)
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
