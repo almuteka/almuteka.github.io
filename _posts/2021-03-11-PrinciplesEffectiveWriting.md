@@ -48,8 +48,9 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 
 # Cut Clutter
 ## objectives
-1. Remove unnecessary words to make sentences clean, simple, and directly convey information. The reader should not spend time trying to understand what the message is or interpret every sentence's meaning.
+1. Remove unnecessary words to make sentences clean, simple, and directly convey information. The reader should not spend time trying to understand the message or interpret every sentence's meaning.
 2. Remove any information that is irrelevant and doesn't add any value.
+
 
 ### <ins> Example 1 </ins>
 
