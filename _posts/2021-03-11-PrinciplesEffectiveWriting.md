@@ -37,7 +37,7 @@ When writing a sentence, ask yourself the following:
 3. Is this sentence enjoyable and interesting to read?
 4. Is the sentence to inform or obscure?
 
-In technical writing, avoid extra words and unnecessary phrases. It is important to make your writing concise and to the point. Also, avoid nouns and use verbs if possible; avoid turing verbs into nouns.
+In technical writing, avoid extra words and unnecessary phrases (cut clutter). It is important to make your writing concise and to the point. Also, avoid nouns and use verbs if possible; avoid turing verbs into nouns.
 
 > Example
 > 
