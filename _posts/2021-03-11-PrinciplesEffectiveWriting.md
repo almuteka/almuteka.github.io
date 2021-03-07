@@ -81,11 +81,11 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 
 ### Common clutter:
 1. Dead weight words and phrases (provide citations instead):
-  1. As it is well known.
-  2. As it has been shown.
-  3. It can be regarded that.
-  4. It should be emphasized that.
+    1. As it is well known.
+    2. As it has been shown.
+    3. It can be regarded that.
+    4. It should be emphasized that.
 2. Empty words and phrases (they don't add anything):
-  1. basic tenets of.
-  2. methodologic.
-  3. important.
+    1. basic tenets of.
+    2. methodologic.
+    3. important.
