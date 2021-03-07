@@ -123,4 +123,3 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 > <ins> Before </ins>: A robust cell-mediated immune response is necessary, and deficiency in this response predisposes an individual towards active TB.
 > 
 > <ins> After </ins>: Deficiency in T-cell-mediated immune response predisposes an individual to active TB.
-
