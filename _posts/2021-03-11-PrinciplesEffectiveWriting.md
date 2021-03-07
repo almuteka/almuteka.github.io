@@ -89,3 +89,19 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
     1. basic tenets of.
     2. methodologic.
     3. important.
+3. Long words and phrases that could be short:
+    1. muscular and cardio-respiratory performance - fitness.
+4. Unnecessary jargon and acronyms:
+    1. muscular and cardio-respiratory performance.
+5. Repetitive words and phrases:
+    1. studies/examples.
+    2. illustrate/demonstrate.
+    3. challenges/difficulties.
+    4. successful solutions.
+6. Adverbs:
+    1. very, really, quite, basically, generally, etc.
+
+| Wordy | concise |
+| ----------- | ----------- |
+| Header | most  |
+| Paragraph | Text |
