@@ -39,7 +39,7 @@ When writing a sentence, ask yourself the following:
 
 In technical writing, avoid extra words and unnecessary phrases (cut clutter). It is important to make your writing concise and to the point. Also, avoid nouns and use verbs if possible; avoid turing verbs into nouns.
 
-> Example
+> <ins> Example </ins>
 > 
 > Identify one of the three nouns in the following sentence that could be verbs: Their data lend some support to the idea that the particle exists, but this is hardly sufficient justification for the paper's publication in Nature.
 > The three nouns are support, justification, and publication.
@@ -51,8 +51,8 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 1. Remove unnecessary words to make sentences clean, simple, and directly convey information. The reader should not spend time trying to understand what the message is or interpret every sentence's meaning.
 2. Remove any information that is irrelevant and doesn't add any value.
 
-> Example 1
+> <ins> Example 1 </ins>
 > 
-> Before: This paper provides a review of the basic tenets of cancer biology study design, using as examples studies that illustrate the methodologic challenges of that demonstrate successful solutions to difficulties inherent in biological research.
+> <ins> Before </ins>: This paper provides a review of the basic tenets of cancer biology study design, using as examples studies that illustrate the methodologic challenges of that demonstrate successful solutions to difficulties inherent in biological research.
 > 
-> After: This paper reviews cancer biology study design, using examples that illustrate specific hallenges and solutions.
+> <ins> After </ins>: This paper reviews cancer biology study design, using examples that illustrate specific hallenges and solutions.
