@@ -5,4 +5,4 @@ published: true
 ---
 Test equation
 
-![image](eqn.png)
+![image](./eqn.png)
