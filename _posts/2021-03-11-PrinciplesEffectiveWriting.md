@@ -8,7 +8,8 @@ Technical writing for sciences can be a challenging task. A writer needs to deli
 1. Understand the principles of effective writing.
 2. Learn the things a writer needs to avoid when writing.
 3. How to be concise.
-# Introduction
+
+# Principles of Effective Writing
 What makes good writing?
 1. Communicate an idea clearly and effectively (very important).
 2. Elegant and stylish (less important, takes time, and requires multiple revisions).
@@ -27,4 +28,17 @@ What makes a good writer?
 11. Be concise and remove anything unnecessary.
 12. Let someone look at your writing to get some feedback.
 13. Don't be afraid to be provocative.
-14. A proper grammar is essential. 
+14. A proper grammar is essential.
+
+# Things To avoid
+When writing a sentence, ask yourself the follow:
+1. Is this sentence easy to understand?
+2. Is this sentence is readable?
+3. Is this sentence enjoyable and intereseting to read?
+4. It the sentence to inform or obscure?
+Avoid nouns and use verbs if possible.
+Example
+: Identify one of the three nouns in the following sentence that could be verbs:
+Their data lend some support to the idea that the particle exists, but this is hardly sufficient justification for the paper’s publication in Nature.
+The three nouns are support, justification, and publication.
+Avoid extra words.
