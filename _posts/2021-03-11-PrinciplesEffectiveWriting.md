@@ -51,6 +51,8 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 1. Remove unnecessary words to make sentences clean, simple, and directly convey information. The reader should not spend time trying to understand what the message is or interpret every sentence's meaning.
 2. Remove any information that is irrelevant and doesn't add any value.
 
-> Example
+> Example 1
 > 
-> This paper provides a review of the basic tenets of cancer biology study design, using as examples studies that illustrate the methodologic challenges of that demonstrate successful solutions to difficulties inherent in biological research.
+> Before: This paper provides a review of the basic tenets of cancer biology study design, using as examples studies that illustrate the methodologic challenges of that demonstrate successful solutions to difficulties inherent in biological research.
+> 
+> After: This paper reviews cancer biology study design, using examples that illustrate specific hallenges and solutions.
