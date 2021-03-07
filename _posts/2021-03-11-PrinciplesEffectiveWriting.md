@@ -37,11 +37,11 @@ When writing a sentence, ask yourself the following:
 3. Is this sentence enjoyable and interesting to read?
 4. Is the sentence to inform or obscure?
 
-In technical writing, avoid extra words and unnecessary phrases. It is important to make your writing concise and to the point. Also, avoid nouns and use verbs if possible.
+In technical writing, avoid extra words and unnecessary phrases. It is important to make your writing concise and to the point. Also, avoid nouns and use verbs if possible; avoid turing verbs into nouns.
 
 > Example
 > 
 > Identify one of the three nouns in the following sentence that could be verbs: Their data lend some support to the idea that the particle exists, but this is hardly sufficient justification for the paper's publication in Nature.
 > The three nouns are support, justification, and publication.
 
-Avoid vague words, i.e., words that can be hard to understand why they mean in the sentence context. Acronyms can be risky; nonstandard acronyms, i.e., non-familiar by most readers, slow reading because readers have to search for the acronym's meaning.
+Avoid vague words, i.e., words that can be hard to understand why they mean in the sentence context. Acronyms can be risky; nonstandard acronyms, i.e., non-familiar by most readers, slow reading because readers have to search for the acronym's meaning. Avoid passive voice and use active voice instead.
