@@ -31,17 +31,17 @@ What makes a good writer?
 14. A proper grammar is essential.
 
 # Things To avoid
-When writing a sentence, ask yourself the follow:
+When writing a sentence, ask yourself the following:
 1. Is this sentence easy to understand?
 2. Is this sentence is readable?
-3. Is this sentence enjoyable and intereseting to read?
-4. It the sentence to inform or obscure?
+3. Is this sentence enjoyable and interesting to read?
+4. Is the sentence to inform or obscure?
 
-In thechnical writing, avoid extra words. It is important to make your writing consice and to the point. Also, avoid nouns and use verbs if possible. 
+In technical writing, avoid extra words. It is important to make your writing concise and to the point. Also, avoid nouns and use verbs if possible.
+
 > Example
 > 
-> Identify one of the three nouns in the following sentence that could be verbs:
-> Their data lend some support to the idea that the particle exists, but this is hardly sufficient justification for the paper’s publication in Nature.
+> Identify one of the three nouns in the following sentence that could be verbs: Their data lend some support to the idea that the particle exists, but this is hardly sufficient justification for the paper's publication in Nature.
 > The three nouns are support, justification, and publication.
 
-Avoid vague words, i.e., words that can be hard to understand why they mean in the context of the sentence. Acronyms can be risky; nonstandard acronyms, i.e., non-familar by most readers, slows reading because readers have to search for the meaning of the acronym.
+Avoid vague words, i.e., words that can be hard to understand why they mean in the sentence context. Acronyms can be risky; nonstandard acronyms, i.e., non-familiar by most readers, slow reading because readers have to search for the acronym's meaning.
