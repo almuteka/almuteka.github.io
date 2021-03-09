@@ -86,6 +86,7 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
     2. As it has been shown.
     3. It can be regarded that.
     4. It should be emphasized that.
+    5. It has been found that.
 2. Empty words and phrases (they don't add anything):
     1. basic tenets of.
     2. methodologic.
