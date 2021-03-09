@@ -48,8 +48,10 @@ In technical writing, avoid extra words and unnecessary phrases (cut clutter). I
 > The three nouns are support, justification, and publication.
 > 
 
-### <ins> Example </ins>
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 
+### <ins> Example </ins>
+>
 > <ins> Before </ins>: The expected prevalence of mental retardation, <span style="color:blue">based on the assumption that</span> intelligence is normally distributed, is about 2.5%.
 > 
 > <ins> After </ins>: The expected prevalence of mental retardation, <ins>if</ins> intelligence is normally distributed, is about 2.5%.
