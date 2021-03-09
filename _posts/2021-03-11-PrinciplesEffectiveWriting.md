@@ -56,6 +56,12 @@ In technical writing, avoid extra words and unnecessary phrases (cut clutter). I
 
 Avoid vague words, i.e., words that can be hard to understand why they mean in the sentence context. Acronyms can be risky; nonstandard acronyms, i.e., non-familiar by most readers, slow reading because readers have to search for the acronym's meaning. Avoid passive voice and use active voice instead.
 
+### <ins> Example </ins>
+>
+> <ins> Before </ins>: <ins>Dysregulation</ins> of <ins>physiologic</ins> microRNA <ins>(miR)</ins> activity <ins>has been shown</ins> to play an important role in tumor <ins>initiation</ins> and <ins>progression</ins>, including <ins>gliomagenesis</ins>. Therefore, <ins>molecular species</ins> that can regulate <ins>miR</ins> activity on their target RNAs without affecting the <ins>expression</ins> of relevant mature <ins>miRs</ins> may play equally relevant roles in cancer.
+> 
+> <ins> After </ins>: Changes in microRNA expression play a role in cancer, including glioma. Therefore, events that disrupt microRNAs from binding to their target RNAs may also promote cancer.
+
 # Cut Clutter
 ## objectives
 1. Remove unnecessary words to make sentences clean, simple, and directly convey information. The reader should not spend time trying to understand the message or interpret every sentence's meaning.
