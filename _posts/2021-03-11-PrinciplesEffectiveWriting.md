@@ -9,16 +9,6 @@ Technical writing for sciences can be a challenging task. A writer needs to deli
 2. Learn the things a writer needs to avoid when writing.
 3. How to be concise; cut the clutter.
 
-<div id="html" markdown="0">
-<h1>HTML part</h1>
-  <p> I only want to make only <span style="color:blue;">THIS</span>word blue </p>
-  <ul>
-    <li>Foo</li>
-    <li>Bar</li>
-  </ul>
-
-</div>
-
 # Principles of Effective Writing
 What makes good writing?
 1. Communicate an idea clearly and effectively (very important).
@@ -60,9 +50,9 @@ In technical writing, avoid extra words and unnecessary phrases (cut clutter). I
 
 ### <ins> Example </ins>
 >
-> <ins> Before </ins>: The expected prevalence of mental retardation, <span style="color:blue">based on the assumption that</span> intelligence is normally distributed, is about 2.5%.
+> <ins> Before </ins>: These findings imply that the rates of ascorbate radical <ins>production</ins> and its <ins>recycling</ins> via dehydroascorbate reductase to replenish the ascorbate pool are equivalent at the lower irradiance, but not equivalent at higher irradiance with the rate of ascorbate radical <ins>production</ins> exceeding its <ins>recycling</ins> back to ascorbate.
 > 
-> <ins> After </ins>: The expected prevalence of mental retardation, <ins>if</ins> intelligence is normally distributed, is about 2.5%.
+> <ins> After </ins>: These findings imply that, at low irradiation, ascorbate radicals are produced and recycled at the same rate, but at high irradiation, they are produced faster than they can be recycled back to ascorbate.
 
 Avoid vague words, i.e., words that can be hard to understand why they mean in the sentence context. Acronyms can be risky; nonstandard acronyms, i.e., non-familiar by most readers, slow reading because readers have to search for the acronym's meaning. Avoid passive voice and use active voice instead.
 
