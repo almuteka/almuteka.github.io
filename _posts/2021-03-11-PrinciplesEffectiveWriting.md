@@ -9,7 +9,15 @@ Technical writing for sciences can be a challenging task. A writer needs to deli
 2. Learn the things a writer needs to avoid when writing.
 3. How to be concise; cut the clutter.
 
-{% include mytest.html %}
+<div id="html" markdown="0">
+<h1>HTML part</h1>
+
+  <ul>
+    <li>Foo</li>
+    <li>Bar</li>
+  </ul>
+
+</div>
 
 # Principles of Effective Writing
 What makes good writing?
