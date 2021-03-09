@@ -39,10 +39,20 @@ When writing a sentence, ask yourself the following:
 
 In technical writing, avoid extra words and unnecessary phrases (cut clutter). It is important to make your writing concise and to the point. Also, avoid nouns and use verbs if possible; avoid turing verbs into nouns.
 
-> <ins> Example </ins>
+### <ins> Example </ins>
 > 
-> Identify one of the three nouns in the following sentence that could be verbs: Their data lend some support to the idea that the particle exists, but this is hardly sufficient justification for the paper's publication in Nature.
+> Identify one of the three nouns in the following sentence that could be verbs:
+> 
+> Their data lend some support to the idea that the particle exists, but this is hardly sufficient justification for the paper's publication in Nature.
+> 
 > The three nouns are support, justification, and publication.
+> 
+
+### <ins> Example </ins>
+
+> <ins> Before </ins>: The expected prevalence of mental retardation, <span style="color:blue">based on the assumption that</span> intelligence is normally distributed, is about 2.5%.
+> 
+> <ins> After </ins>: The expected prevalence of mental retardation, <ins>if</ins> intelligence is normally distributed, is about 2.5%.
 
 Avoid vague words, i.e., words that can be hard to understand why they mean in the sentence context. Acronyms can be risky; nonstandard acronyms, i.e., non-familiar by most readers, slow reading because readers have to search for the acronym's meaning. Avoid passive voice and use active voice instead.
 
@@ -52,13 +62,13 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 2. Remove any information that is irrelevant and doesn't add any value.
 
 
-### <ins> Example 1 </ins>
+### <ins> Example </ins>
 
 > <ins> Before </ins>: This paper provides a review of the basic tenets of cancer biology study design, using as examples studies that illustrate the methodologic challenges of that demonstrate successful solutions to difficulties inherent in biological research.
 > 
 > <ins> After </ins>: This paper reviews cancer biology study design, using examples that illustrate specific hallenges and solutions.
 
-### <ins> Example 2 </ins>
+### <ins> Example </ins>
 
 > <ins> Before </ins>: As it is well known, increased athletic activity has been related to a profile of lower cardiovascular risk, lower blood pressure levels, and improved muscular and cardio-respiratory performance.
 > 
@@ -68,13 +78,13 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 > 
 > <ins> After 2</ins>: Increased athletic activity lowers cardiovascular risk and blood pressure, and improves fitness.
 
-### <ins> Example 3 </ins>
+### <ins> Example </ins>
 
 > <ins> Before </ins>: The experimental demonstration is the first of its kind and is a proof of principle for the concept of laser driven particle acceleration in a structure loaded vacuum.
 > 
 > <ins> After </ins>: The experiment provides the first proof of principle of laser-driven particle acceleration in a structure-loaded vacuum.
 
-### <ins> Example 4 </ins>
+### <ins> Example </ins>
 
 > <ins> Before </ins>: Brain injury incidence shows two peak periods in almost all reports: rates are the highest in young people and the elderly.
 > 
@@ -114,13 +124,13 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 | due to the fact that | because |
 | have an effect on | affect |
 
-### <ins> Example 5 </ins>
+### <ins> Example </ins>
 
 > <ins> Before </ins>: The expected prevalence of mental retardation, <ins>based on the assumption that</ins> intelligence is normally distributed, is about 2.5%.
 > 
 > <ins> After </ins>: The expected prevalence of mental retardation, <ins>if</ins> intelligence is normally distributed, is about 2.5%.
 
-### <ins> Example 6 </ins>
+### <ins> Example </ins>
 
 > <ins> Before </ins>: A robust cell-mediated immune response is necessary, and deficiency in this response predisposes an individual towards active TB.
 > 
