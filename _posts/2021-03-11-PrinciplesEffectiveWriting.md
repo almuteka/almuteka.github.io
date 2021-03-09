@@ -9,6 +9,8 @@ Technical writing for sciences can be a challenging task. A writer needs to deli
 2. Learn the things a writer needs to avoid when writing.
 3. How to be concise; cut the clutter.
 
+{% include mytest.html %}
+
 # Principles of Effective Writing
 What makes good writing?
 1. Communicate an idea clearly and effectively (very important).
