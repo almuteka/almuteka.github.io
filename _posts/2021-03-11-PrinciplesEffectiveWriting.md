@@ -11,7 +11,7 @@ Technical writing for sciences can be a challenging task. A writer needs to deli
 
 <div id="html" markdown="0">
 <h1>HTML part</h1>
-  <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+  <p> I only want to make only <span style="color:blue;">THIS</span>word blue </p>
   <ul>
     <li>Foo</li>
     <li>Bar</li>
