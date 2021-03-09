@@ -125,8 +125,8 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 > 
 > <ins> After </ins>: Deficiency in T-cell-mediated immune response predisposes an individual to active TB.
 
-### How to get rid of:
+### Get rid of:
 1. Negatives (nots). Turn negative to positive.
-3. Superfluous uses of "there is" and "there are."
-4. needless prepositions.
+2. Superfluous uses of "there is" and "there are."
+3. Needless prepositions.
 
