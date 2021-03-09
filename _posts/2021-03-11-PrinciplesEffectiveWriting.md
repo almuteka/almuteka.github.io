@@ -11,7 +11,7 @@ Technical writing for sciences can be a challenging task. A writer needs to deli
 
 <div id="html" markdown="0">
 <h1>HTML part</h1>
-
+  <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
   <ul>
     <li>Foo</li>
     <li>Bar</li>
@@ -57,8 +57,6 @@ In technical writing, avoid extra words and unnecessary phrases (cut clutter). I
 > 
 > The three nouns are support, justification, and publication.
 > 
-
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 
 ### <ins> Example </ins>
 >
