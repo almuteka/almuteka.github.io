@@ -147,3 +147,12 @@ Avoid vague words, i.e., words that can be hard to understand why they mean in t
 2. Superfluous uses of "there is" and "there are."
 3. Needless prepositions.
 
+| Long words/phrases | short |
+| ----------- | ----------- |
+| Not honest | dishonest |
+| Not harmful | safe (harmless) |
+| Not important | unimportant |
+| Does not have | lacks |
+| Did not remember | forgot |
+| Did not pay attention to | ignored |
+| Did not succeed | failed |
