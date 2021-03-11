@@ -51,6 +51,19 @@ To drop the agent from the sentence one can use passive voise. In English, passi
 | may be | might be |
 | must be | has been |
 
+### <ins> Example </ins>
+> 
+> <ins>Passive</ins>: My first visit to Boston will always be remembered by me.
+> 
+> <ins>Recipient of the action</ins>: My first visit to Boston
+> 
+> <ins>Verb</ins>: be remembered
+> 
+> <ins>Agent of the action</ins>: me
+>
+> <ins>Active</ins>: I will always remember my first visit to Boston.
+>
+
 ## How to turn passive into active
 To turn passive voice into active voice:
 
