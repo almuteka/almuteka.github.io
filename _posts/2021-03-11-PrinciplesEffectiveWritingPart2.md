@@ -9,6 +9,11 @@ The previous post focuses on the first principle of the three principles of effe
 2. Write with verbs.
 3. Use strong verbs and avoid turing verbs into nouns.
 4. Keep the subject and main verb close together at the beginning of the sentence.
+5. Advantages of active voice:
+    1. Using active voice makes the writing more concise and more direct.
+    2. Emphisizes the author responsibility.
+    3. Improves readability.
+    4. Reduces ambiguity.
 
 # Use the active voice
 Format: subject (agent) -> verb -> object (recipient)
@@ -33,6 +38,7 @@ To drop the agent from the sentence one can use passive voise. In English, passi
 ## How to recognize passive voise
 1. Passive verb: a form of the verb "to be" + the past participle of the verb
 2. The main verb must be a transitive verb, i.e. take an object.
+3. Effect comes before the cause.
 
 | to be verbs ||
 | ----------- |-|
