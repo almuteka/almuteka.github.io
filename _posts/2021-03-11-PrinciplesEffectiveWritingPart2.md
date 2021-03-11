@@ -34,7 +34,7 @@ To drop the agent from the sentence one can use passive voise. In English, passi
 1. Passive verb: a form of the verb "to be" + the past participle of the verb
 2. The main verb must be a transitive verb, i.e. take an object.
 
-| to be verbs |
+| to be verbs ||
 | ----------- |
 | is | are |
 | was | were |
