@@ -9,11 +9,10 @@ The previous post focuses on the first principle of the three principles of effe
 2. Write with verbs.
 3. Use strong verbs and avoid turing verbs into nouns.
 4. Keep the subject and main verb close together at the beginning of the sentence.
-5. Advantages of active voice:
-    1. Using active voice makes the writing more concise and more direct.
-    2. Emphisizes the author responsibility.
-    3. Improves readability.
-    4. Reduces ambiguity.
+5. Using active voice makes the writing more concise and more direct. The Advantages of active voice are:
+    1. Emphisizes the author responsibility.
+    2. Improves readability.
+    3. Reduces ambiguity.
 
 # Use the active voice
 Format: subject (agent) -> verb -> object (recipient)
@@ -64,9 +63,31 @@ To drop the agent from the sentence one can use passive voise. In English, passi
 > <ins>Active</ins>: I will always remember my first visit to Boston.
 >
 
+### <ins> Example </ins>
+> 
+> <ins>Passive</ins>: She is loved.
+> 
+> <ins>Recipient of the action</ins>: She
+> 
+> <ins>Verb</ins>: loved - Notes: (1) Past participle of a transitive verb: to love (direct object) - (2) for of "to be": is.
+> 
+> <ins>Agent of the action</ins>: Missing
+>
+
 ## How to turn passive into active
 To turn passive voice into active voice:
 
 Ask: Who does what to whom?
 
 Note: Somtime the agent is missing from a passive voice sentence. To turn a passive voice sentence into active voice one needs to add an agent.
+
+## The Advantages of active voice are:
+### Emphisizes the author responsibility.
+### <ins> Example </ins>
+> 
+> <ins>Passive</ins>: No attempt <ins>was made</ins> to contact non-responders because they <ins>were deemed</ins> unimportant to the analysis.
+> 
+> <ins>Active</ins>: <ins>We did not attempt</ins> to contact non-responders because <ins>we deemed</ins> them unimportant to the analysis.
+>
+### Improves readability.
+### Reduces ambiguity.
