@@ -98,5 +98,5 @@ Note: Somtime the agent is missing from a passive voice sentence. To turn a pass
 > 
 > <ins>Passive</ins>: General dysfunction of the immune system at the leukocyte level <ins>is suggested</ins> by both animal and human studies. 
 > 
-> <ins>Active</ins>: Both human and animal studies <\ins>suggest</ins> that <ins>diabetics</ins> have general immune dysfunction at the leukocyte level.
+> <ins>Active</ins>: Both human and animal studies <ins>suggest</ins> that <ins>diabetics</ins> have general immune dysfunction at the leukocyte level.
 >
