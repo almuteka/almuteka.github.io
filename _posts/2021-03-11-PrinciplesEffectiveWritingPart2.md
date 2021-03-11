@@ -43,4 +43,11 @@ To drop the agent from the sentence one can use passive voise. In English, passi
 | shall be | should be |
 | will be | would be |
 | may be | might be |
-| must be | has been
+| must be | has been |
+
+## How to turn passive into active
+To turn passive voice into active voice:
+
+Ask: Who does what to whom?
+
+Note: Somtime the agent is missing from a passive voice sentence. To turn a passive voice sentence into active voice one needs to add an agent.
