@@ -82,12 +82,21 @@ Ask: Who does what to whom?
 Note: Somtime the agent is missing from a passive voice sentence. To turn a passive voice sentence into active voice one needs to add an agent.
 
 ## The Advantages of active voice are:
-### Emphisizes the author responsibility.
-### <ins> Example </ins>
+### Emphisizes the author responsibility - <ins>Example</ins>
 > 
 > <ins>Passive</ins>: No attempt <ins>was made</ins> to contact non-responders because they <ins>were deemed</ins> unimportant to the analysis.
 > 
 > <ins>Active</ins>: <ins>We did not attempt</ins> to contact non-responders because <ins>we deemed</ins> them unimportant to the analysis.
 >
-### Improves readability.
-### Reduces ambiguity.
+### Improves readability - <ins>Example</ins>
+> 
+> <ins>Passive</ins>: A strong correlation <ins>was found</ins> between use of the passive voice and other sins of writing.
+> 
+> <ins>Active</ins>: Use of passive voice strongly correlated with other sins of writing. 
+>
+### Reduces ambiguity - <ins>Example</ins>
+> 
+> <ins>Passive</ins>: General dysfunction of the immune system at the leukocyte level <ins>is suggested</ins> by both animal and human studies. 
+> 
+> <ins>Active</ins>: Both human and animal studies <\ins>suggest</ins> that <ins>diabetics</ins> have general immune dysfunction at the leukocyte level.
+>
