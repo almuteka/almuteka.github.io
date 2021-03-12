@@ -104,7 +104,7 @@ Note: Somtime the agent is missing from a passive voice sentence. To turn a pass
 # Write with verbs
 1. Use strong verbs and pick the right ones.
 2. Avoid turning verbs into nouns.
-3. Don't bury the main verb.
+3. Don't bury the main verb. Keep the subject and main verb (predicate) close together at the start of the sentence.
 
 ### Use strong verbs - <ins>Example</ins>
 > 
@@ -133,7 +133,19 @@ Note: Somtime the agent is missing from a passive voice sentence. To turn a pass
 | Has seen an expansion in | has expanded |
 | Provides a mthodologic emphasis | emphasizes methodology |
 | Take an assessment of | assess |
+| Provide a review of | review |
+| Offer confirmation of | confirm |
+| Make a decision | decide |
+| Shows a peak | peaks |
+| Provide a description of | describe |
 
-
-
-
+### Don't bury the main verb - <ins>Example</ins>
+> 
+> <ins>Passive</ins>: <ins>One study of 930 adults with multiple sclerosis (MS) receiving care in one of two managed care settings or in a fee-for-service setting</ins> <ins>found</ins> that only two-thirds of those needing to contact a neurologist for an MS-related problem in the prior 6 months had done so.
+> 
+> <ins>Subject</ins> of the sentence is the study: One study of 930 adults with multiple sclerosis (MS) receiving care in one of two managed care settings or in a fee-for-service setting
+> 
+> <ins>verb</ins>: found (predict)
+> 
+> <ins>Active</ins>: One study found that, of 930 adults with multiple sclerosis (MS) receiving care in one of two managed care settings or in a fee-for-service setting, only two-thirds of those needing to contact a neurologist for an MS-related problem in the prior 6 months had done so.
+>
