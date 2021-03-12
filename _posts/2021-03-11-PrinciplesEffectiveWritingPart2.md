@@ -100,3 +100,15 @@ Note: Somtime the agent is missing from a passive voice sentence. To turn a pass
 > 
 > <ins>Active</ins>: Both human and animal studies <ins>suggest</ins> that <ins>diabetics</ins> have general immune dysfunction at the leukocyte level.
 >
+
+# Write with verbs
+1. Use strong verbs.
+2. Avoid turning verbs into nouns.
+3. Don't bury the main verb.
+
+## Use strong verbs - <ins>Example</ins>
+> 
+> <ins>Passive</ins>: Loud music came from speakers embedded in the walls, and the entire arena moved as the hungry crowd got to its feet.
+> 
+> <ins>Active</ins>: Loud music <ins>exploded</ins> from speakers embedded in the walls, and the entire arena <ins>shook</ins> as the hungry crowd <ins>leaped</ins> to its feet.
+>
