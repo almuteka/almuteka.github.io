@@ -106,9 +106,16 @@ Note: Somtime the agent is missing from a passive voice sentence. To turn a pass
 2. Avoid turning verbs into nouns.
 3. Don't bury the main verb.
 
-## Use strong verbs - <ins>Example</ins>
+### Use strong verbs - <ins>Example</ins>
 > 
 > <ins>Passive</ins>: Loud music came from speakers embedded in the walls, and the entire arena moved as the hungry crowd got to its feet.
 > 
 > <ins>Active</ins>: Loud music <ins>exploded</ins> from speakers embedded in the walls, and the entire arena <ins>shook</ins> as the hungry crowd <ins>leaped</ins> to its feet.
+>
+
+### Use strong verbs - <ins>Example</ins>
+> 
+> <ins>Passive</ins>: The WHO <ins>reports</ins> that approximately two-thirds of the world's diabetics are found in developing countries, and <ins>estimates</ins> that the number of diabetics in these countries will double in the next 25 year.
+> 
+> <ins>Active</ins>: The WHO <ins>estimates</ins> that two-thirds of the world's diabetics are found in developing countries, and <ins>projects</ins> that the number of diabetics in these countries will double in the next 25 year.
 >
