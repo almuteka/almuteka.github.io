@@ -108,23 +108,23 @@ Note: Somtime the agent is missing from a passive voice sentence. To turn a pass
 
 ### Use strong verbs - <ins>Example</ins>
 > 
-> <ins>Passive</ins>: Loud music came from speakers embedded in the walls, and the entire arena moved as the hungry crowd got to its feet.
+> <ins>Before</ins>: Loud music came from speakers embedded in the walls, and the entire arena moved as the hungry crowd got to its feet.
 > 
-> <ins>Active</ins>: Loud music <ins>exploded</ins> from speakers embedded in the walls, and the entire arena <ins>shook</ins> as the hungry crowd <ins>leaped</ins> to its feet.
+> <ins>After</ins>: Loud music <ins>exploded</ins> from speakers embedded in the walls, and the entire arena <ins>shook</ins> as the hungry crowd <ins>leaped</ins> to its feet.
 >
 
 ### Use strong verbs - <ins>Example</ins>
 > 
-> <ins>Passive</ins>: The WHO <ins>reports</ins> that approximately two-thirds of the world's diabetics are found in developing countries, and <ins>estimates</ins> that the number of diabetics in these countries will double in the next 25 year.
+> <ins>Before</ins>: The WHO <ins>reports</ins> that approximately two-thirds of the world's diabetics are found in developing countries, and <ins>estimates</ins> that the number of diabetics in these countries will double in the next 25 year.
 > 
-> <ins>Active</ins>: The WHO <ins>estimates</ins> that two-thirds of the world's diabetics are found in developing countries, and <ins>projects</ins> that the number of diabetics in these countries will double in the next 25 year.
+> <ins>After</ins>: The WHO <ins>estimates</ins> that two-thirds of the world's diabetics are found in developing countries, and <ins>projects</ins> that the number of diabetics in these countries will double in the next 25 year.
 >
 
 ### Avoid turning verbs into nouns - <ins>Example</ins>
 > 
-> <ins>Passive</ins>: During DNA damage, <ins>recognition</ins> of protein A by protein B results in <ins>recruitment</ins> of protein C and <ins>repression</ins> of cell proliferation genes.
+> <ins>Before</ins>: During DNA damage, <ins>recognition</ins> of protein A by protein B results in <ins>recruitment</ins> of protein C and <ins>repression</ins> of cell proliferation genes.
 > 
-> <ins>Active</ins>: During DNA damage, protein A <ins>recruits</ins> protein B and protein C, which together <ins>repress</ins> cell proliferation genes.
+> <ins>After</ins>: During DNA damage, protein A <ins>recruits</ins> protein B and protein C, which together <ins>repress</ins> cell proliferation genes.
 >
 
 | No | Yes|
@@ -141,11 +141,11 @@ Note: Somtime the agent is missing from a passive voice sentence. To turn a pass
 
 ### Don't bury the main verb - <ins>Example</ins>
 > 
-> <ins>Passive</ins>: <ins>One study of 930 adults with multiple sclerosis (MS) receiving care in one of two managed care settings or in a fee-for-service setting</ins> <ins>found</ins> that only two-thirds of those needing to contact a neurologist for an MS-related problem in the prior 6 months had done so.
+> <ins>Before</ins>: <ins>One study of 930 adults with multiple sclerosis (MS) receiving care in one of two managed care settings or in a fee-for-service setting</ins> <ins>found</ins> that only two-thirds of those needing to contact a neurologist for an MS-related problem in the prior 6 months had done so.
 > 
 > <ins>Subject</ins> of the sentence is the study: One study of 930 adults with multiple sclerosis (MS) receiving care in one of two managed care settings or in a fee-for-service setting
 > 
 > <ins>verb</ins>: found (predict)
 > 
-> <ins>Active</ins>: One study found that, of 930 adults with multiple sclerosis (MS) receiving care in one of two managed care settings or in a fee-for-service setting, only two-thirds of those needing to contact a neurologist for an MS-related problem in the prior 6 months had done so.
+> <ins>After</ins>: One study found that, of 930 adults with multiple sclerosis (MS) receiving care in one of two managed care settings or in a fee-for-service setting, only two-thirds of those needing to contact a neurologist for an MS-related problem in the prior 6 months had done so.
 >
