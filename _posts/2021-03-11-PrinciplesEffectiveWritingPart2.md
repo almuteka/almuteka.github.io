@@ -102,7 +102,7 @@ Note: Somtime the agent is missing from a passive voice sentence. To turn a pass
 >
 
 # Write with verbs
-1. Use strong verbs.
+1. Use strong verbs and pick the right ones.
 2. Avoid turning verbs into nouns.
 3. Don't bury the main verb.
 
@@ -119,3 +119,21 @@ Note: Somtime the agent is missing from a passive voice sentence. To turn a pass
 > 
 > <ins>Active</ins>: The WHO <ins>estimates</ins> that two-thirds of the world's diabetics are found in developing countries, and <ins>projects</ins> that the number of diabetics in these countries will double in the next 25 year.
 >
+
+### Avoid turning verbs into nouns - <ins>Example</ins>
+> 
+> <ins>Passive</ins>: During DNA damage, <ins>recognition</ins> of protein A by protein B results in <ins>recruitment</ins> of protein C and <ins>repression</ins> of cell proliferation genes.
+> 
+> <ins>Active</ins>: During DNA damage, protein A <ins>recruits</ins> protein B and protein C, which together <ins>repress</ins> cell proliferation genes.
+>
+
+| No | Yes|
+| ----------- | ----------- |
+| Obtain estimates of | estimate |
+| Has seen an expansion in | has expanded |
+| Provides a mthodologic emphasis | emphasizes methodology |
+| Take an assessment of | assess |
+
+
+
+
