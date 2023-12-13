@@ -4,4 +4,3 @@
 
 layout: home
 ---
-TEST: edit index.markdown
